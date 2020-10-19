@@ -13,21 +13,10 @@
       >
         <div class="white--text text-sm-h4 text-h5 text-center">
           <div>
-            Fi<a
+            Find M<a
               class="white--text"
               style="text-decoration: none; cursor: none"
-              href="https://line.me/ti/p/o8C_pypi95"
-              >n</a
-            ><a
-              class="white--text"
-              style="text-decoration: none; cursor: none"
-              href="https://line.me/ti/p/o8C_pypi95"
-              >d</a
-            >
-            M<a
-              class="white--text"
-              style="text-decoration: none; cursor: none"
-              href="https://line.me/ti/p/o8C_pypi95"
+              :href="link"
               >e</a
             >
           </div>
@@ -37,6 +26,16 @@
     </v-row>
   </v-container>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      link: 'praktikum/123980',
+    }
+  },
+}
+</script>
 
 <style lang="scss" scoped>
 #hero {
