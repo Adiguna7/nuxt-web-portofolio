@@ -45,6 +45,9 @@
           <div class="mt-3 text-center text-md-left">
             Study at computer engineering topic give me amazing knowledge about
             how technology works. Thats why i want to learn more and more.
+            <br />
+            <br />
+            TL;DR. Love problem solving, Digital electronics and Linux.
           </div>
         </v-col>
         <v-col md="5" class="d-flex justify-center">
@@ -135,6 +138,23 @@
                 <div class="mt-2 text-subtitle-2">
                   Laboratory assistant, doing research on network security
                   topics
+                </div>
+              </v-row>
+            </v-timeline-item>
+            <v-timeline-item
+              small
+              color="#e31b6d"
+              fill-dot
+              class="mt-3 flex-row flex-md-row-reverse"
+            >
+              <v-row>
+                <div class="color--red font-weight-bold">
+                  Multimedia and Game Event 6 [MAGE 6]
+                </div>
+                <div class="mt-2 text-subtitle-2">
+                  Annual event of Computer Engineering Departement ITS. (Lead of
+                  Website and IT Development Division, Supervised and help team
+                  to build olympiad system based on fun game).
                 </div>
               </v-row>
             </v-timeline-item>
