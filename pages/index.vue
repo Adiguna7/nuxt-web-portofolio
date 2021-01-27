@@ -334,6 +334,11 @@ export default {
       ],
     }
   },
+  mounted() {
+    this.$ga.page(this.$router)
+    // eslint-disable-next-line no-console
+    console.log('bismillah')
+  },
   methods: {
     imagePortofolio(data) {
       // eslint-disable-next-line no-console

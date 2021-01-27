@@ -34,6 +34,11 @@ export default {
       link: 'praktikum/123980',
     }
   },
+  mounted() {
+    this.$ga.page(this.$router)
+    // eslint-disable-next-line no-console
+    console.log('bismillah')
+  },
 }
 </script>
 

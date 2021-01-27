@@ -21,6 +21,9 @@ export default {
           'https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css',
       },
     ],
+    googleAnalytics: {
+      id: 'G-1RLDZ1TZKM',
+    },
   },
 
   server: {
@@ -42,6 +45,7 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
+    '@nuxtjs/google-analytics',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
