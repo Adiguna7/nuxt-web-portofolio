@@ -22,7 +22,7 @@ export default {
       },
     ],
     googleAnalytics: {
-      id: 'G-1RLDZ1TZKM',
+      id: 'UA-173143968-2',
     },
   },
 
