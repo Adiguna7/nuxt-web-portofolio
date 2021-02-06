@@ -43,7 +43,7 @@
             Student Who Interest in web developer, robotic and machine learning
           </div>
           <div class="mt-3 text-center text-md-left">
-            Study at computer engineering topic give me amazing knowledge about
+            Study at computer engineering topics give me amazing knowledge about
             how technology works. Thats why i want to learn more and more.
             <br />
             <br />
